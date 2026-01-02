@@ -29,6 +29,7 @@
 <br />
 
   <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
 
