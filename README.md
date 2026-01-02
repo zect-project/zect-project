@@ -27,15 +27,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zect-project&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zect-project&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<img src="https://github.com/zect-project/zect-project/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
