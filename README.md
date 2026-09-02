@@ -51,7 +51,7 @@
 ###  GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zect-project&theme=github_dark" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=zect-project&theme=tokyo-night" />
 </div>
 
 
