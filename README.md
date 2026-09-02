@@ -10,17 +10,16 @@
 
 ---
 
-### 👨‍💻 Обо мне
+###  Обо мне
 
-- 🔭 Сейчас работаю над **ML-моделями и AI-сервисами**
-- ⚙️ Пишу бэкенды на **Python / Go**, автоматизирую всё, что можно
-- 📈 Люблю превращать сырые данные в рабочие продукты
-- 🌱 Постоянно изучаю новое в мире ML/AI и системного дизайна
-- 💬 Спрашивайте меня о Python, ML, FastAPI, SQL
+-  Сейчас работаю над **ML-моделями и AI-сервисами**
+-  Пишу бэкенды на **Python / Go**, автоматизирую всё, что можно
+-  Люблю превращать сырые данные в рабочие продукты
+-  Постоянно изучаю новое в мире ML/AI 
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -63,7 +62,7 @@
 
 ---
 
-### 🌐 Связаться со мной
+###  Связаться со мной
 
 <p align="center">
   <a href="mailto:your-email@example.com">
