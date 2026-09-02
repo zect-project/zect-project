@@ -52,17 +52,6 @@
 </div>
 
 
-###  Связаться со мной
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/your_telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:F7F7F7&height=100&section=footer" />
 </div>
