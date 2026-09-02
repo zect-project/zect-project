@@ -40,17 +40,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pytorch,postgres,redis" />
-</p>
-
-
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zect-project/zect-project/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:F7F7F7&height=100&section=footer" />
