@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ###  Обо мне
 
@@ -17,7 +17,7 @@
 -  Люблю превращать сырые данные в рабочие продукты
 -  Постоянно изучаю новое в мире ML/AI 
 
----
+
 
 ###  Tech Stack
 
@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,pytorch,postgres,redis" />
 </p>
 
----
+
 
 ###  GitHub Stats
 
