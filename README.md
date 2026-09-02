@@ -48,7 +48,7 @@
 
 
 <div align="center">
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=zect-project&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
