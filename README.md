@@ -6,21 +6,10 @@
 </div>
 
 
-
-###  Обо мне
-
--  Сейчас работаю над **ML-моделями и AI-сервисами**
--  Пишу бэкенды на **Python / Go**, автоматизирую всё, что можно
--  Люблю превращать сырые данные в рабочие продукты
--  Постоянно изучаю новое в мире ML/AI 
-
-
-
 ###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
