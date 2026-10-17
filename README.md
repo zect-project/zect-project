@@ -10,7 +10,7 @@
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,cloudflare,docker,py,pytorch,tensorflow,go,js,ts,vscode,bash,figma&perline=6" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,cloudflare,docker,py,pytorch,tensorflow,go,js,ts,bash,figma&perline=6" alt="Skill Icons" />
   </a>
   <br /><br />
 
